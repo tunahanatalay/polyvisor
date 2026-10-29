@@ -1,0 +1,12 @@
+[package]
+name = "polyvisor"
+version = "0.0.1"
+edition.workspace = true
+license.workspace = true
+repository.workspace = true
+description = "MicroVM orchestration and control plane for Firecracker"
+readme = "README.md"
+keywords = ["microvm", "firecracker", "virtualization", "orchestration"]
+categories = ["virtualization"]
+
+[dependencies]
